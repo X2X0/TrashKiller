@@ -1,6 +1,6 @@
 ## **TrashKiller**
 
-**trashkiller** is a simple Bash script for Linux systems that permanently deletes user and root trash, temporary files, and a wide range of system log files. It helps free up disk space and keep your system clean. The script prompts for confirmation before running and provides clear progress messages.
+**trashkiller** is a Bash script for Linux systems that permanently deletes user and root trash, temporary files, and a wide range of system log files. It helps free up disk space and keep your system clean. The script prompts for confirmation before running and provides clear progress messages.
 
 ## Features
 
